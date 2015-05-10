@@ -97,6 +97,6 @@ pinseq=8
 T 3650 1600 9 8 1 1 0 6 1
 pinlabel=P0_0/ACMP_I1/TDO
 T 3650 1600 5 8 0 1 0 8 1
-pintype=pwr
+pintype=io
 }
 B 300 0 3400 2000 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
